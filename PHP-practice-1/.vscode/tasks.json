@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run PHP",
+      "type": "shell",
+      "command": "php index.php",
+      "group": "build",
+      "problemMatcher": [],
+      "presentation": {
+        "clear": true
+      }
+    }
+  ]
+}
